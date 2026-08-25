@@ -7,7 +7,7 @@ I like learning by actually building things — from small utilities made to sol
 ---
 
 
-### 📊 Data Science & Machine Learning
+## Data Science & Machine Learning
 Currently developing my foundations in:
 
 - Python
