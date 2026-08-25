@@ -1,6 +1,6 @@
 # Hi, I'm Soham 
 
-I'm a B.Tech student and an IIT Madras BS Data Science student, interested in building practical software and exploring AI/ML, data science, and web development.
+I'm a B.Tech student at Kalyani Government Engineering College and an IIT Madras BS Data Science student, interested in building practical software and exploring AI/ML, data science, and web development.
 
 I like learning by actually building things — from small utilities made to solve everyday problems to larger projects involving AI, APIs, databases, and web applications.
 
