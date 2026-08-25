@@ -45,7 +45,6 @@ I'm particularly interested in understanding how ML can be applied to practical 
 | Project | What it is |
 | --- | --- |
 | **IdeaForge** | A marketplace for engineering project ideas aimed at students looking for internship-ready projects. |
-| **KrishiMitra AI** | AI-powered agricultural assistance platform being developed for SIH 2026. |
 | **SalesGenie** | An AI chatbot experiment built around an OpenRouter API integration. |
 | **Sakhi** | Women's career and business navigation platform; my contribution focused on deployment and web infrastructure. |
 | **Electricity Bill Calculator** | A React/TypeScript utility for calculating and tracking electricity bills locally in the browser. |
